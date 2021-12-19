@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmPVw8ETO4YXTHZB+ARAi6ByMYr06OWUZxQ32z2esl7wE2e/ZR0lM7hF72Y8VyKQaPval9mKjPdIHoNx/WRSHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirill\\Desktop\\ДО\\Пиздец до перед нг\\laba\\OA-P-main\\HelloApp(OAиП) 8.12\\HelloApp\\HelloApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
